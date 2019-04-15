@@ -1,5 +1,5 @@
 {
-  "name": "apprentice-code-test",
+  "name": "louise-clark-apprentice-code-test",
   "version": "1.0.0",
   "description": "Practice exercises to learn the syntax for unit testing javascript code.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
     "lint": "eslint src",
     "lint:fix": "eslint src --fix"
   },
-  "author": "James Spivey",
+  "author": "louise-clark-apprentice-hopeful",
   "devDependencies": {
     "@babel/core": "7.4.0",
     "@babel/preset-env": "7.4.2",
@@ -17,8 +17,10 @@
     "eslint": "5.15.3",
     "eslint-config-prettier": "4.1.0",
     "eslint-plugin-prettier": "3.0.1",
-    "jest": "24.5.0",
+    "jest": "^24.7.1",
     "prettier": "1.16.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "https://github.com/lclark070607/apprentice-code-test.git",
+  "license": "MIT"
 }
